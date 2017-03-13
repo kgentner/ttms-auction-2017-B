@@ -5,4 +5,4 @@ ttms-auction-2017-B
 The website catalog for the Three Tree Montessori School's 2017 Auction, based on the side-menu layout by PureCSS.io (http://purecss.io/).
 
 ####Check it out at:
-TBD URL
+###http://kgentner.github.io/ttms-auction-2017-B

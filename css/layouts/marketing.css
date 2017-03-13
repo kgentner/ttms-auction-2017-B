@@ -6,6 +6,11 @@
     
 }
 
+@font-face {
+   font-family: gothamlight;
+   src: url(../../assets/fonts/Gotham-Light.otf);
+}
+
 
 /*
  * -- BASE STYLES --
@@ -115,6 +120,7 @@ a.pure-button-primary {
     color: white;
     font-weight: 400;
     font-size: 120%;
+    
 }
 
 .home-menu .pure-menu-selected a {
@@ -179,6 +185,7 @@ a.pure-button-primary {
     letter-spacing: 0.05em;
     opacity: 0.8;
     line-height: 70%;
+    font-family: gothamlight, Arial, Helvetica, sans-serif;
 }
 
 /*
@@ -207,6 +214,8 @@ a.pure-button-primary {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin: 2em 0 1em;
+    font-family: gothamlight, Arial, Helvetica, sans-serif;
+    
 
 }
 
@@ -219,6 +228,7 @@ a.pure-button-primary {
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
     color: #1f8dd6;
+    font-family: gothamlight, Arial, Helvetica, sans-serif;
         
 }
     .content-subhead i {
