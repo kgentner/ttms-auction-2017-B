@@ -39,6 +39,11 @@ label {
     height: auto;
 }
 
+/* Line separator. */
+.ribbon-line {
+    border-top: 1px solid slategray;
+}
+
 /*
  * -- LAYOUT STYLES --
  * These are some useful classes which I will need
